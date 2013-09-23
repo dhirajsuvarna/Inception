@@ -16,3 +16,7 @@ body {
 	text-align: center;
 	margin: auto;
 }
+
+.image-box {
+    height: 100%
+}
